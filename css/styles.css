@@ -2,6 +2,19 @@
 YOUR STYLES
 *******************/
 
+body {
+    background: black;
+    color: white;
+}
+
+a:link, a:visited {
+    color: aqua;
+}
+
+section {
+    width: 25%;
+    padding: 10px 0px 0px 10px;
+}
 
 
 
